@@ -1,0 +1,17 @@
+certifi==2020.6.20
+chardet==3.0.4
+colorama==0.4.3
+crayons==0.3.1
+crypto==1.4.1
+idna==2.9
+Naked==0.1.31
+piexif==1.1.3
+Pillow==6.2.2
+pycryptodome==3.4.3
+PyQt5==5.15.0
+PyQt5-sip==12.8.0
+PyYAML==5.3.1
+requests==2.24.0
+shellescape==3.8.1
+stegano==0.9.8
+urllib3==1.25.9
